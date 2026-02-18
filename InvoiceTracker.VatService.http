@@ -1,0 +1,6 @@
+@InvoiceTracker.VatService_HostAddress = http://localhost:5087
+
+GET {{InvoiceTracker.VatService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
